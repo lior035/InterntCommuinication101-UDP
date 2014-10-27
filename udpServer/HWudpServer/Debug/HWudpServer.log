@@ -1,0 +1,11 @@
+﻿Build started 23/12/2012 19:45:16.
+     1>Project "C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\HWudpServer\HWudpServer.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\Debug\HWudpServer.exe" /INCREMENTAL /NOLOGO Ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\Debug\HWudpServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\Debug\HWudpServer.lib" /MACHINE:X86 Debug\serverAction.obj
+         Debug\UDPServer.obj
+         HWudpServer.vcxproj -> C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\Debug\HWudpServer.exe
+     1>Done Building Project "C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpServer\HWudpServer\HWudpServer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20

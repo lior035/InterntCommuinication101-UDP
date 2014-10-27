@@ -1,0 +1,14 @@
+﻿Build started 23/12/2012 19:32:01.
+     1>Project "C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\HWudpClient\HWudpClient.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt udpClient.cpp
+         udpClient.cpp
+     1>c:\users\asulin\desktop\dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\ex2\udphw\hwudpclient\hwudpclient\udpclient.cpp(168): warning C4101: 'tTime' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\Debug\HWudpClient.exe" /INCREMENTAL /NOLOGO Ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\Debug\HWudpClient.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\Debug\HWudpClient.lib" /MACHINE:X86 Debug\udpClient.obj
+         HWudpClient.vcxproj -> C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\Debug\HWudpClient.exe
+     1>Done Building Project "C:\Users\Asulin\Desktop\Dropbox\ליאור\מכללה\סמסטר א' 2013\תקשורת מחשבים\projects\Ex2\UdpHw\HWudpClient\HWudpClient\HWudpClient.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.03
